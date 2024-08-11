@@ -1,0 +1,19 @@
+body{
+    font-family: "Whisper", cursive;
+    background-color: rgb(110, 213, 213);
+}
+
+header{
+    background-color: rgb(87, 156, 156);
+    color: black;
+}
+
+h1{
+    font-family: "Whisper", cursive;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(114, 146, 189);
+    color: rgb(166, 163, 158);
+}
