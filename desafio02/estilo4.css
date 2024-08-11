@@ -1,0 +1,23 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(186, 14, 155);
+}
+
+header{
+    color: black;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    line-height: 150%;
+}
+
+footer{
+    background-color: rgb(216, 30, 145);
+    color: rgb(217, 217, 230);
+}
